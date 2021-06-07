@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\If-Else-If.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\If-Else-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\If-Else-If.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\If-Else-If.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\If-Else-If.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\If-Else-If\bin\Debug\net5.0\If-Else-If.exe
+C:\Users\moric\Desktop\patikaC#\If-Else-If\bin\Debug\net5.0\If-Else-If.deps.json
+C:\Users\moric\Desktop\patikaC#\If-Else-If\bin\Debug\net5.0\If-Else-If.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\If-Else-If\bin\Debug\net5.0\If-Else-If.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\If-Else-If\bin\Debug\net5.0\If-Else-If.dll
+C:\Users\moric\Desktop\patikaC#\If-Else-If\bin\Debug\net5.0\ref\If-Else-If.dll
+C:\Users\moric\Desktop\patikaC#\If-Else-If\bin\Debug\net5.0\If-Else-If.pdb
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\If-Else-If.dll
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\ref\If-Else-If.dll
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\If-Else-If.pdb
+C:\Users\moric\Desktop\patikaC#\If-Else-If\obj\Debug\net5.0\If-Else-If.genruntimeconfig.cache
