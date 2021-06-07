@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\bin\Debug\net5.0\HataYonetimi.exe
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\bin\Debug\net5.0\HataYonetimi.deps.json
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\bin\Debug\net5.0\HataYonetimi.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\bin\Debug\net5.0\HataYonetimi.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\bin\Debug\net5.0\HataYonetimi.dll
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\bin\Debug\net5.0\ref\HataYonetimi.dll
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\bin\Debug\net5.0\HataYonetimi.pdb
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\HataYonetimi.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\HataYonetimi.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\HataYonetimi.dll
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\ref\HataYonetimi.dll
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\HataYonetimi.pdb
+C:\Users\moric\Desktop\patikaC#\HataYonetimi\obj\Debug\net5.0\HataYonetimi.genruntimeconfig.cache
