@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\bin\Debug\net5.0\MetotOverloading.exe
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\bin\Debug\net5.0\MetotOverloading.deps.json
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\bin\Debug\net5.0\MetotOverloading.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\bin\Debug\net5.0\MetotOverloading.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\bin\Debug\net5.0\MetotOverloading.dll
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\bin\Debug\net5.0\ref\MetotOverloading.dll
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\bin\Debug\net5.0\MetotOverloading.pdb
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\MetotOverloading.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\MetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\MetotOverloading.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\MetotOverloading.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\MetotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\MetotOverloading.dll
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\ref\MetotOverloading.dll
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\MetotOverloading.pdb
+C:\Users\moric\Desktop\patikaC#\MetotOverloading\obj\Debug\net5.0\MetotOverloading.genruntimeconfig.cache
