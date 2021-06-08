@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.exe
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.deps.json
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.dll
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\bin\Debug\net5.0\ref\ArraySinifiMetodlari.dll
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\bin\Debug\net5.0\ArraySinifiMetodlari.pdb
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.dll
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ref\ArraySinifiMetodlari.dll
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.pdb
+C:\Users\moric\Desktop\patikaC#\ArraySinifiMetodlari\obj\Debug\net5.0\ArraySinifiMetodlari.genruntimeconfig.cache
