@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+C:\Users\moric\Desktop\patikaC#\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+C:\Users\moric\Desktop\patikaC#\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+C:\Users\moric\Desktop\patikaC#\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\moric\Desktop\patikaC#\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+C:\Users\moric\Desktop\patikaC#\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache
