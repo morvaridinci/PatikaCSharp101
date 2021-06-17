@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\bin\Debug\net5.0\AlgoritmaSorulari1.exe
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\bin\Debug\net5.0\AlgoritmaSorulari1.deps.json
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\bin\Debug\net5.0\AlgoritmaSorulari1.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\bin\Debug\net5.0\AlgoritmaSorulari1.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\bin\Debug\net5.0\AlgoritmaSorulari1.dll
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\bin\Debug\net5.0\ref\AlgoritmaSorulari1.dll
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\bin\Debug\net5.0\AlgoritmaSorulari1.pdb
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\AlgoritmaSorulari1.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\AlgoritmaSorulari1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\AlgoritmaSorulari1.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\AlgoritmaSorulari1.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\AlgoritmaSorulari1.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\AlgoritmaSorulari1.dll
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\ref\AlgoritmaSorulari1.dll
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\AlgoritmaSorulari1.pdb
+C:\Users\moric\Desktop\patikaC#\AlgoritmaSorulari1\obj\Debug\net5.0\AlgoritmaSorulari1.genruntimeconfig.cache
