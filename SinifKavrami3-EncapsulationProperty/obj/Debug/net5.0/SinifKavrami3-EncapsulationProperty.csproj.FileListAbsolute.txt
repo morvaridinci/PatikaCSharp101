@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\bin\Debug\net5.0\SinifKavrami3-EncapsulationProperty.exe
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\bin\Debug\net5.0\SinifKavrami3-EncapsulationProperty.deps.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\bin\Debug\net5.0\SinifKavrami3-EncapsulationProperty.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\bin\Debug\net5.0\SinifKavrami3-EncapsulationProperty.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\bin\Debug\net5.0\SinifKavrami3-EncapsulationProperty.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\bin\Debug\net5.0\ref\SinifKavrami3-EncapsulationProperty.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\bin\Debug\net5.0\SinifKavrami3-EncapsulationProperty.pdb
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\SinifKavrami3-EncapsulationProperty.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\SinifKavrami3-EncapsulationProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\SinifKavrami3-EncapsulationProperty.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\SinifKavrami3-EncapsulationProperty.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\SinifKavrami3-EncapsulationProperty.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\SinifKavrami3-EncapsulationProperty.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\ref\SinifKavrami3-EncapsulationProperty.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\SinifKavrami3-EncapsulationProperty.pdb
+C:\Users\moric\Desktop\patikaC#\SinifKavrami3-EncapsulationProperty\obj\Debug\net5.0\SinifKavrami3-EncapsulationProperty.genruntimeconfig.cache
