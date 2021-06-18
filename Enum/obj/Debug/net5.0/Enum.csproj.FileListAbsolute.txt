@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\Enum\bin\Debug\net5.0\Enum.exe
+C:\Users\moric\Desktop\patikaC#\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\moric\Desktop\patikaC#\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\moric\Desktop\patikaC#\Enum\bin\Debug\net5.0\ref\Enum.dll
+C:\Users\moric\Desktop\patikaC#\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\ref\Enum.dll
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\moric\Desktop\patikaC#\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
