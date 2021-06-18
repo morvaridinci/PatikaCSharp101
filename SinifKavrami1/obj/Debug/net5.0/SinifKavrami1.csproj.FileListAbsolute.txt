@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\bin\Debug\net5.0\SinifKavrami1.exe
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\bin\Debug\net5.0\SinifKavrami1.deps.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\bin\Debug\net5.0\SinifKavrami1.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\bin\Debug\net5.0\SinifKavrami1.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\bin\Debug\net5.0\SinifKavrami1.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\bin\Debug\net5.0\ref\SinifKavrami1.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\bin\Debug\net5.0\SinifKavrami1.pdb
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\SinifKavrami1.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\SinifKavrami1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\SinifKavrami1.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\SinifKavrami1.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\SinifKavrami1.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\SinifKavrami1.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\ref\SinifKavrami1.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\SinifKavrami1.pdb
+C:\Users\moric\Desktop\patikaC#\SinifKavrami1\obj\Debug\net5.0\SinifKavrami1.genruntimeconfig.cache
