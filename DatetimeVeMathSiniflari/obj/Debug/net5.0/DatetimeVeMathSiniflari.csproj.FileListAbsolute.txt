@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\bin\Debug\net5.0\DatetimeVeMathSiniflari.exe
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\bin\Debug\net5.0\DatetimeVeMathSiniflari.deps.json
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\bin\Debug\net5.0\DatetimeVeMathSiniflari.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\bin\Debug\net5.0\DatetimeVeMathSiniflari.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\bin\Debug\net5.0\DatetimeVeMathSiniflari.dll
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\bin\Debug\net5.0\ref\DatetimeVeMathSiniflari.dll
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\bin\Debug\net5.0\DatetimeVeMathSiniflari.pdb
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\DatetimeVeMathSiniflari.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\DatetimeVeMathSiniflari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\DatetimeVeMathSiniflari.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\DatetimeVeMathSiniflari.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\DatetimeVeMathSiniflari.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\DatetimeVeMathSiniflari.dll
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\ref\DatetimeVeMathSiniflari.dll
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\DatetimeVeMathSiniflari.pdb
+C:\Users\moric\Desktop\patikaC#\DatetimeVeMathSiniflari\obj\Debug\net5.0\DatetimeVeMathSiniflari.genruntimeconfig.cache
