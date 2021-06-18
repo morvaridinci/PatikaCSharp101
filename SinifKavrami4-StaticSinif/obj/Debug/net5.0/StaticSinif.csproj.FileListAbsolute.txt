@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\bin\Debug\net5.0\StaticSinif.exe
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\bin\Debug\net5.0\StaticSinif.deps.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\bin\Debug\net5.0\StaticSinif.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\bin\Debug\net5.0\StaticSinif.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\bin\Debug\net5.0\StaticSinif.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\bin\Debug\net5.0\ref\StaticSinif.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\bin\Debug\net5.0\StaticSinif.pdb
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\StaticSinif.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\StaticSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\StaticSinif.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\StaticSinif.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\StaticSinif.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\StaticSinif.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\ref\StaticSinif.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\StaticSinif.pdb
+C:\Users\moric\Desktop\patikaC#\SinifKavrami4-StaticSinif\obj\Debug\net5.0\StaticSinif.genruntimeconfig.cache
