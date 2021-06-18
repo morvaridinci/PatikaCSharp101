@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\bin\Debug\net5.0\Koleksiyonlar3-ArrayList.exe
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\bin\Debug\net5.0\Koleksiyonlar3-ArrayList.deps.json
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\bin\Debug\net5.0\Koleksiyonlar3-ArrayList.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\bin\Debug\net5.0\Koleksiyonlar3-ArrayList.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\bin\Debug\net5.0\Koleksiyonlar3-ArrayList.dll
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\bin\Debug\net5.0\ref\Koleksiyonlar3-ArrayList.dll
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\bin\Debug\net5.0\Koleksiyonlar3-ArrayList.pdb
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\Koleksiyonlar3-ArrayList.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\Koleksiyonlar3-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\Koleksiyonlar3-ArrayList.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\Koleksiyonlar3-ArrayList.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\Koleksiyonlar3-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\Koleksiyonlar3-ArrayList.dll
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\ref\Koleksiyonlar3-ArrayList.dll
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\Koleksiyonlar3-ArrayList.pdb
+C:\Users\moric\Desktop\patikaC#\Koleksiyonlar3-ArrayList\obj\Debug\net5.0\Koleksiyonlar3-ArrayList.genruntimeconfig.cache
