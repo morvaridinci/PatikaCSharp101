@@ -1,0 +1,16 @@
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\bin\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.exe
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\bin\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.deps.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\bin\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.runtimeconfig.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\bin\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.runtimeconfig.dev.json
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\bin\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\bin\Debug\net5.0\ref\SinifKavrami2-KurucuFonksiyonlar.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\bin\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.pdb
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.AssemblyInfo.cs
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\ref\SinifKavrami2-KurucuFonksiyonlar.dll
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.pdb
+C:\Users\moric\Desktop\patikaC#\SinifKavrami2-KurucuFonksiyonlar\obj\Debug\net5.0\SinifKavrami2-KurucuFonksiyonlar.genruntimeconfig.cache
